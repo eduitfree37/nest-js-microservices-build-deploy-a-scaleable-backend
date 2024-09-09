@@ -1,2 +1,3 @@
-# nest-js-microservices-build-deploy-a-scaleable-backend
-Nest.js Microservices: Build &amp; Deploy a Scaleable Backend
+# Nest.js Microservices: Build &amp; Deploy a Scaleable Backend
+Nest.js is a powerful backend framework designed for building highly scalable Node.js applications with minimal complexity. Utilizing a Microservice architecture, developers can create and deploy multiple independent applications that seamlessly communicate with each other through a selected transport layer. This comprehensive course is specifically crafted to provide a seamless integration between Nest.js and the Microservice architecture, allowing for enhanced efficiency and performance in application development.
+[Detail](https://eduitfree.com/courses/nest-js-microservices-build-deploy-a-scaleable-backend)
